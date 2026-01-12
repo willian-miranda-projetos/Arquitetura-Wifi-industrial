@@ -1,0 +1,247 @@
+## Sugestão de configuração avançada por SSID
+
+- Ambiente Administrativo
+
+SSID: DIRETORIA\
+Senha: ********
+
+Network: DEFAULT\
+Broadcasting APs: Aps do ambiente administrativo
+
+Wifi Optimization: Standard
+
+Advanced: Manual\
+Multicasting filtering: off\
+Multicast and Broadcast Blocker: Desativado\
+Multicast to unicast: Desativado\
+Client Device Isolation: Desativado\
+Private Pre-Shared Keys: Desativado
+
+Wifi band: Ativar 2.4GHz e 5Ghz (Importante para uma boa relação entre alcance e melhor desempenho)\
+MLO: Desativado\
+Band Steering: Ativado\
+Hide Wifi Name: Desativado\
+Proxy ARP: Desativado\
+BSS Transition: Ativado\
+UAPSD: Desativado\
+Fast Roaming: Ativado\
+WiFi Speed Limit: Ativado\
+802.11 DTIM Period: Auto\
+Minimum Data Rate Control: Auto\
+MAC Address Filter: Desativado\
+RADIUS MAC Authentication: Desativado\
+Security Protocol: WPA2/WPA3\
+PMF: Desativado\
+Group Rekey Interval: Desligado\
+WiFi Blackout Schedule: OFF
+
+-----------------------------------------------------------------------------
+
+SSID: CORPORATIVO\
+Senha: ********
+
+Network: EMPRESA\
+Broadcasting APs: Aps do ambiente administrativo
+
+Wifi Optimization: Standard
+
+Advanced: Manual\
+Multicasting filtering: off\
+Multicast and Broadcast Blocker: Desativado\
+Multicast to unicast: Desativado\
+Client Device Isolation: Desativado\
+Private Pre-Shared Keys: Desativado
+
+Wifi band: Ativar 2.4GHz e 5Ghz (Importante para uma boa relação entre alcance e melhor desempenho)\
+MLO: Desativado\
+Band Steering: Ativado\
+Hide Wifi Name: Desativado\
+Proxy ARP: Desativado\
+BSS Transition: Ativado\
+UAPSD: Desativado\
+Fast Roaming: Desativado\
+WiFi Speed Limit: Ativado\
+802.11 DTIM Period: Auto\
+Minimum Data Rate Control: Auto\
+MAC Address Filter: Desativado\
+RADIUS MAC Authentication: Desativado\
+Security Protocol: WPA2/WPA3\
+PMF: Desativado\
+Group Rekey Interval: Desligado\
+WiFi Blackout Schedule: OFF
+
+-----------------------------------------------------------------------------
+
+SSID: VISITANTES ADM\
+Senha: ***********
+
+Network: CLIENTE\
+Broadcasting APs:
+
+Wifi Optimization: Standard
+
+Advanced: Manual\
+Multicasting filtering: off\
+Multicast and Broadcast Blocker: Ativar\
+Multicast to unicast: Desativado\
+Client Device Isolation: Ativado\
+Private Pre-Shared Keys: Desativado
+
+Wifi band: Ativar 2.4GHz e 5Ghz (Importante para uma boa relação entre alcance e melhor desempenho)\
+MLO: Desativado\
+Band Steering: Ativado\
+Hide Wifi Name: Desativado\
+Proxy ARP: Desativado\
+BSS Transition: Ativado\
+UAPSD: Desativado\
+Fast Roaming: Desativado\
+WiFi Speed Limit: Ativado\
+802.11 DTIM Period: Auto\
+Minimum Data Rate Control: Auto\
+MAC Address Filter: Desativado\
+RADIUS MAC Authentication: Desativado\
+Security Protocol: WPA2/WPA3\
+PMF: Desativado\
+Group Rekey Interval: Desligado\
+WiFi Blackout Schedule: OFF
+
+_____________________________________________________________________________
+
+## Controle de Banda
+
+- DIRETORIA\
+Download: 200 Mbps\
+Upload: 60 Mbps
+
+- CORPORATIVO\
+Download: 180 Mbps\
+Upload: 50 Mbps
+
+- VISITANTE ADM\
+Download: 40 Mbps\
+Upload: 10 Mbps
+
+Criar perfis relativos
+
+_____________________________________________________________________________
+
+- Ambiente Operacional
+
+SSID: SISTEMAS\
+Senha: ********
+
+Network: EMPRESA\
+Broadcasting APs: Aps da área operacional
+
+Wifi Optimization: Standard
+
+Advanced: Manual\
+Multicasting filtering: off\
+Multicast and Broadcast Blocker: Desativado\
+Multicast to unicast: Desativado\
+Client Device Isolation: Ativado\
+Private Pre-Shared Keys: Desativado
+
+Wifi band: Ativar 2.4GHz e 5Ghz (Importante para uma boa relação entre alcance e melhor desempenho)\
+MLO: Desativado\
+Band Steering: Ativado\
+Hide Wifi Name: Desativado\
+Proxy ARP: Ativado\
+BSS Transition: Ativado\
+UAPSD: Desativado\
+Fast Roaming: Desativado\
+WiFi Speed Limit: Ativado\
+802.11 DTIM Period: Auto\
+Minimum Data Rate Control: Auto\
+MAC Address Filter: Desativado\
+RADIUS MAC Authentication: Desativado\
+Security Protocol: WPA2/WPA3\
+PMF: Desativado\
+Group Rekey Interval: Desligado\
+WiFi Blackout Schedule: OFF 
+
+-----------------------------------------------------------------------------
+
+SSID: CLIENTES\
+Senha: *******
+
+Network: CLIENTE\
+Broadcasting APs: Aps da área operacional
+
+Wifi Optimization: Standard
+
+Advanced: Manual\
+Multicasting filtering: off\
+Multicast and Broadcast Blocker: Desativado\
+Multicast to unicast: Desativado\
+Client Device Isolation: Ativado\
+Private Pre-Shared Keys: Desativado
+
+Wifi band: Ativar 2.4GHz e 5Ghz (Importante para uma boa relação entre alcance e melhor desempenho)\
+MLO: Desativado\
+Band Steering: Ativado\
+Hide Wifi Name: Desativado\
+Proxy ARP: Desativado\
+BSS Transition: Ativado\
+UAPSD: Desativado\
+Fast Roaming: Desativado\
+WiFi Speed Limit: Ativado\
+802.11 DTIM Period: Auto\
+Minimum Data Rate Control: Auto\
+MAC Address Filter: Desativado\
+RADIUS MAC Authentication: Desativado\
+Security Protocol: WPA2/WPA3 \
+PMF: Desativado\
+Group Rekey Interval: Desligado\
+WiFi Blackout Schedule: OFF
+
+-----------------------------------------------------------------------------
+
+SSID: VISITANTE OP\
+Senha: *********
+
+Network: CLIENTE\
+Broadcasting APs: Aps da área operacional
+
+Wifi Optimization: Standard
+
+Advanced: Manual\
+Multicasting filtering: off\
+Multicast and Broadcast Blocker: Ativar\
+Multicast to unicast: Desativado\
+Client Device Isolation: Ativado\
+Private Pre-Shared Keys: Desativado
+
+Wifi band: Ativar 2.4GHz e 5Ghz (Importante para uma boa relação entre alcance e melhor desempenho)\
+MLO: Desativado\
+Band Steering: Ativado\
+Hide Wifi Name: Desativado\
+Proxy ARP: Desativado\
+BSS Transition: Ativado\
+UAPSD: Desativado\
+Fast Roaming: Desativado\
+WiFi Speed Limit: Ativado\
+802.11 DTIM Period: Auto\
+Minimum Data Rate Control: Auto\
+MAC Address Filter: Desativado\
+RADIUS MAC Authentication: Desativado\
+Security Protocol: WPA2/WPA3\
+PMF: Desativado\
+Group Rekey Interval: Desligado\
+WiFi Blackout Schedule: OFF
+
+_____________________________________________________________________________
+
+## Controle de banda 
+
+- SISTEMAS\
+Download: 100 Mbps\
+Upload: 40 Mbps
+
+- CLIENTES\
+Download: 120 Mbps\
+Upload: 50 Mbps
+
+- VISITANTE OP\
+Download: 25 Mbps\
+Upload: 5 Mbps
