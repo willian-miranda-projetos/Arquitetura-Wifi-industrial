@@ -16,6 +16,9 @@ Todas as informações sensíveis (nomes reais, senhas, SSIDs,
 endereçamento IP e dados corporativos) foram propositalmente removidas
 ou anonimizadas.
 
+Equipamento: Antenas Ubiquiti
+Controladora Network da Ubiquiti
+
 ------------------------------------------------------------------------
 
 ## Características do Ambiente
@@ -44,15 +47,15 @@ latência.
 
 ### Ambiente Administrativo
 
--   Diretoria / Presidência
+-   Diretoria 
 -   Corporativo
--   Visitantes
+-   Visitante aAdm
 
 ### Área Comum / Operacional
 
 -   Sistemas (coletores, totens, impressoras)
 -   Clientes
--   Visitantes
+-   Visitante OP
 
 Cada SSID possui: - Perfil próprio de controle de banda - Prioridade de
 tráfego - Políticas de segurança e isolamento adequadas ao uso
@@ -65,10 +68,10 @@ tráfego - Políticas de segurança e isolamento adequadas ao uso
   ------------------ ---------- ---------
   Diretoria          200 Mbps   60 Mbps
   Corporativo        180 Mbps   50 Mbps
-  Visitantes Admin   40 Mbps    10 Mbps
+  Visitante Adm   40 Mbps    10 Mbps
   Sistemas           100 Mbps   40 Mbps
   Clientes           120 Mbps   50 Mbps
-  Visitantes Área    25 Mbps    5 Mbps
+  Visitante OP    25 Mbps    5 Mbps
 
 A proteção do **upload** foi considerada crítica para garantir
 estabilidade geral da rede.
