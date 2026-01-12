@@ -1,4 +1,4 @@
-Sugestão de configuração avançada por SSID
+## Sugestão de configuração avançada por SSID
 -----------------------------------------------------------------------------
 
 SSID: DIRETORIA
@@ -100,7 +100,7 @@ PMF: Desativado
 Group Rekey Interval: Desligado
 WiFi Blackout Schedule: OFF
 _____________________________________________________________________________
-Controle de Banda
+## Controle de Banda
 
 - DIRETORIA
 Download: 200 Mbps
@@ -218,7 +218,7 @@ PMF: Desativado
 Group Rekey Interval: Desligado
 WiFi Blackout Schedule: OFF
 _____________________________________________________________________________
-Controle de banda 
+## Controle de banda 
 
 - SISTEMAS
 Download: 100 Mbps
