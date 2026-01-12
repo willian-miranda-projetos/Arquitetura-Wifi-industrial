@@ -127,6 +127,6 @@ implantação, mas sim de uma documentação conceitual e arquitetural.
 
 ## Autor
 
-Willian Miranda
-Analista de Infraestrutura e Redes
+Willian Miranda\
+Analista de Infraestrutura e Redes\
 Estudo de Caso -- Wi‑Fi Industrial
