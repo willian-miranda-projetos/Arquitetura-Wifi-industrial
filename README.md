@@ -16,7 +16,7 @@ Todas as informações sensíveis (nomes reais, senhas, SSIDs,
 endereçamento IP e dados corporativos) foram propositalmente removidas
 ou anonimizadas.
 
-Equipamento: Antenas Ubiquiti
+Equipamento: Antenas Ubiquiti\
 Controladora Network da Ubiquiti
 
 ------------------------------------------------------------------------
@@ -64,14 +64,14 @@ tráfego - Políticas de segurança e isolamento adequadas ao uso
 
 ## Estratégia de Controle de Banda (Exemplo)
 
-  Perfil             Download   Upload
-  ------------------ ---------- ---------
-  Diretoria          200 Mbps   60 Mbps
-  Corporativo        180 Mbps   50 Mbps
-  Visitante Adm   40 Mbps    10 Mbps
-  Sistemas           100 Mbps   40 Mbps
-  Clientes           120 Mbps   50 Mbps
-  Visitante OP    25 Mbps    5 Mbps
+  | Perfil | Download | Upload |
+  |--------|----------|--------|
+  Diretoria |         200 Mbps |  60 Mbps
+  Corporativo |       180 Mbps |  50 Mbps
+  Visitante Adm |  40 Mbps |   10 Mbps
+  Sistemas |          100 Mbps |  40 Mbps
+  Clientes |          120 Mbps |  50 Mbps
+  Visitante OP |   25 Mbps |   5 Mbps
 
 A proteção do **upload** foi considerada crítica para garantir
 estabilidade geral da rede.
